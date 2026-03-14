@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Pepito el Stickman</title>
+<style>
+body {
+    background: #111;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #ffcc33;
+    margin-top: 30px;
+}
+
+.story {
+    background: #1a1a1a;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 15px;
+    width: 400px;
+    box-shadow: 0 0 15px #ffcc33;
+    text-align: left;
+}
+
+img {
+    width: 250px;
+    margin: 20px auto;
+    border-radius: 15px;
+    border: 2px solid #ffcc33;
+    display: block;
+}
+
+</style>
+</head>
+<body>
+
+<h1>⚔️ Pepito el Stickman ⚔️</h1>
+
+<img src="pepito.png" alt="Pepito Stickman">
+
+<div class="story">
+    <h2>Historia de Pepito</h2>
+    <p>Pepito, un pequeño pero valiente stickman, decidió conquistar el mundo. Con su ingenio y valentía, logró dominar Francia y Londres.</p>
+    <p>Su estrategia era sencilla: usar su agilidad para esquivar enemigos y su astucia para planear grandes ataques. Así, Pepito se convirtió en leyenda entre los stickmans de todo el mundo.</p>
+</div>
+
+</body>
+</html>
